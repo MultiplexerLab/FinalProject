@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sun Oct 29 16:21:15 BDT 2017
+2.base=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+5.file=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\spinner_item_layout.xml
+5.set=ANDROID_RESOURCE
+3.base=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+6.file=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout-v17\\dayforecast_fragment.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout-v17\\activity_main.xml
+4.base=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+7.file=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=11
+0.file=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\menu\\main.xml
+5.base=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+8.file=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\dayforecast_fragment.xml
+4.set=ANDROID_RESOURCE
+6.base=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+1.file=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+9.set=ANDROID_RESOURCE
+9.file=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_main.xml
+10.base=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+2.file=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-hdpi-v4\\back.jpg
+6.set=ANDROID_RESOURCE
+0.base=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+8.base=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.file=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\menu-v11\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+9.base=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=E\:\\android_workspace\\FinalProject\\FinalProject\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
